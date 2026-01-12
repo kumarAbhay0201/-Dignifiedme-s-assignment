@@ -130,6 +130,12 @@ The primary objective of this project is to demonstrate:
 
 ---
 
+## Figma File link
+
+https://www.figma.com/design/pFhMPBVSaK3WnbvOukavdI/Dignifiedme?node-id=0-1&t=iw9T1TGOZ7x6G8Gs-1
+
+---
+
 ## Author
 **Abhay Kumar**  
 UI/UX Designer & Product Thinker
